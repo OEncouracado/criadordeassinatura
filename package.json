@@ -1,5 +1,6 @@
 {
   "name": "criadordeassinatura",
+  "homepage": "https://hospitalemcor.com.br/geradordeassinatura",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
